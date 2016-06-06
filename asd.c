@@ -6,5 +6,5 @@ scanf("%d",&number);
 if(number<0)
 printf("Negative");
 else
-printf("POsitive");
+printf("Positive");
 }
